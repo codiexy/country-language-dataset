@@ -26,10 +26,9 @@ Perfect for building country selectors, language dropdowns, internationalization
 ```
 countries-languages-json/
 
-├── data/
-│   ├── countries.json
-│   └── languages.json
-│
+├── countries.json
+│── languages.json
+│── LICENSE 
 └── README.md
 ```
 
